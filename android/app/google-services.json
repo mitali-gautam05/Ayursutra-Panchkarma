@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99698557959",
+    "project_id": "ayursutra-18529",
+    "storage_bucket": "ayursutra-18529.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99698557959:android:00c2091bdc3f351cf416a2",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBea7gWpTpyf1L96zSKEBT-UN7Zt5Mp5_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
